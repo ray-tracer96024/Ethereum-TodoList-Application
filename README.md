@@ -1,1 +1,1 @@
-"# Ethereum-TodoList-Application" 
+# Ethereum based Todo Application
